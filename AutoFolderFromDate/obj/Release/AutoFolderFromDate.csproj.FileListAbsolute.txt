@@ -1,0 +1,7 @@
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\bin\Release\AutoFolderFromDate.exe.config
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\bin\Release\AutoFolderFromDate.exe
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\bin\Release\AutoFolderFromDate.pdb
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\obj\Release\AutoFolderFromDate.csproj.AssemblyReference.cache
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\obj\Release\AutoFolderFromDate.csproj.CoreCompileInputs.cache
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\obj\Release\AutoFolderFromDate.exe
+D:\(Code)\C#\AutoFolderFromDate\AutoFolderFromDate\obj\Release\AutoFolderFromDate.pdb
